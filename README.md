@@ -10,6 +10,8 @@
 
 3. **Metrics Calculation** for each model
 
+![API screenshot](img/eval.png "Evaluation Results")
+
 4. **API** to serve predictions
 
 ![API screenshot](img/api.png "API Serving")
